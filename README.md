@@ -2,7 +2,7 @@
 
 I am Golam Mostafa, an entrepreneur, developer, and open-source enthusiast. I love and work with PHP, WordPress, and Web base Software.
 
-I aslo love to build software products and solutions. I founded <a href="https://www.themedev.net/">@ThemeDev</a> – a product company, where we create innovative WordPress product plugins for businesses.
+I also love to build software products and solutions. I founded <a href="https://www.themedev.net/">@ThemeDev</a> – a product company, where we create innovative WordPress product plugins for businesses.
 
 <h4>Some of our products include:</h4>
 <ul>
