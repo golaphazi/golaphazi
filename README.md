@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Golam Mostafa, an entrepreneur, developer, and open-source enthusiast. I love and work with PHP, WordPress, and Web base Software.
+
 <!--
 **golaphazi/golaphazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
